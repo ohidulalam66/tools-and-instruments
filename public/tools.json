@@ -1,0 +1,258 @@
+[
+  {
+    "id": 5,
+    "name": "Pliers",
+    "price": 120,
+    "star": 4.5,
+    "img": "https://www.parktool.com/assets/img/product/_productDetail/LP-7_001.jpg",
+    "desc": "A metal small tool with two handles, used for holding things firmly or pulling small things like nails and twisting and cutting wire] (পাক-সাঁড়াশি; প্লাস): Pass me that pair of pliers, please. He clipped off a piece of wire with the pliers."
+  },
+  {
+    "id": 8,
+    "name": "Twist",
+    "price": 240,
+    "star": 3.5,
+    "img": "https://www.u-buy.vn/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNzFCVEo3RFJNdUwuX0FDX1NMMTUwMF8uanBn.jpg",
+    "desc": "To turn Sth, especially repeatedly, or turn or wrap one thing around another] (পাকানো): He twisted her head so she could see what was happening."
+  },
+  {
+    "id": 13,
+    "name": "Clip",
+    "price": 100,
+    "star": 2.5,
+    "img": "https://i5.walmartimages.com/asr/0be8a2f7-25e7-4e24-a27a-d6050fafa60b_1.46388c31bb113376a09ed07e703b4811.jpeg",
+    "desc": "[To cut Sth with scissors or a similar sharp tool, in order to make it shorter or neater; to remove Sth from somewhere by cutting it off] (<কাঁচি, প্লাস ইত্যাদি দিয়ে>কাটা বা ছেঁটে ফেলা): He clipped off a length of wire."
+  },
+  {
+    "id": 19,
+    "name": "Rivet",
+    "price": 90,
+    "star": 4,
+    "img": "https://k7rivets.com/wp-content/uploads/2019/12/Blind-Rivet.jpg",
+    "desc": "[A metal pin that is used to fasten flat pieces of metal or other thick materials such as leather together]"
+  },
+  {
+    "id": 56,
+    "name": "Needle- nose pliers",
+    "price": 560,
+    "star": 5,
+    "img": "https://m.media-amazon.com/images/I/51zgp5XJ2rL._AC_SL1000_.jpg",
+    "desc": "[A small tool with two handles are to re-position and snip wire, because of their long shape they are useful for reaching into small areas, whose other tools unreachable]"
+  },
+  {
+    "id": 90,
+    "name": "Wire cutters",
+    "price": 430,
+    "star": 4,
+    "img": "https://m.media-amazon.com/images/I/51CfdMbnMaL._AC_SX569_.jpg",
+    "desc": "[A tool for cutting wire] (তাঁর কাটার): a pair of wire cutters."
+  },
+  {
+    "id": 108,
+    "name": "Mallet",
+    "price": 480,
+    "star": 1.5,
+    "img": "https://m.media-amazon.com/images/I/51DPyL6G4rL._AC_SL1500_.jpg",
+    "desc": "[A tool like a hammer with a large flat and made of wood or rubber]"
+  },
+  {
+    "id": 198,
+    "name": "Hammer",
+    "price": 780,
+    "star": 5,
+    "img": "https://www.stanleytools.com/NA/product/images/3000x3000x96/STHT51457/STHT51457_2.jpg",
+    "desc": "[a tool consisting of a piece of metal with a flat end which is fixed onto the end of a long thin usually wooden handle, used for hitting things] (হাতুড়ি): He struck her on the head with a hammer. Hammers clattering."
+  },
+  {
+    "id": 191,
+    "name": "Strike",
+    "price": 180,
+    "star": 3,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/61ZgmD39EPL._AC_SL1175_.jpg",
+    "desc": "[To hit or attack someone or something forcefully or violently] (আঘাত করা): He fell striking his head on the edge of the table."
+  },
+  {
+    "id": 708,
+    "name": "Spanner",
+    "price": 1280,
+    "star": 4.8,
+    "img": "https://5.imimg.com/data5/KR/OG/MY-7602108/combination-spanner-set-500x500.jpg",
+    "desc": "[A metal tool with a specially shaped end for holding and turning nuts and bolts] (বিঘত): I will need a spanner to change the back wheel."
+  },
+  {
+    "id": 798,
+    "name": "Ring spanner",
+    "price": 1150,
+    "star": 3.2,
+    "img": "https://m.media-amazon.com/images/I/41mqalBzU1L._AC_SY355_.jpg",
+    "desc": "[A small, hand tool with a simple, double-headed, single-piece and a profile set in a looped head. That is needed if a nut or bolt is very tight]"
+  },
+  {
+    "id": 88,
+    "name": "Monkey wrench",
+    "price": 1580,
+    "star": 3.4,
+    "img": "https://n1.sdlcdn.com/imgs/j/l/k/Bhardwaj-sons-Pipe-Wrench-Set-SDL192744266-1-da3da.png",
+    "desc": "[A device which has parts that can be moved to tighten or unfasten any size of nut and bolt] "
+  },
+  {
+    "id": 718,
+    "name": "Pipe wrench",
+    "price": 1280,
+    "star": 2,
+    "img": "https://static-01.daraz.com.bd/p/0dfe10dd1395b56393dae6655c4382f0.jpg",
+    "desc": "[A heavy tool used for turning a soft iron pipes and fittings with a rounded surface, the design of the adjustable jaw allows it to lock in the frame, such that any forward pressure on the handle tends to pull the jaws tighter together]"
+  },
+  {
+    "id": 678,
+    "name": "Screwdriver",
+    "price": 980,
+    "star": 5,
+    "img": "https://www.stanleytools.com/NA/product/images/3000x3000x96/STHT60796/STHT60796_1.jpg",
+    "desc": "[A tool for turning screws, consisting of a handle joined to a narrow metal rod-shaped at one end to fit in the cut in the top of the screw]"
+  },
+  {
+    "id": 748,
+    "name": "Phillips screwdriver",
+    "price": 1780,
+    "star": 3.7,
+    "img": "https://www.weidinger.eu/img/600/744/resize/b/a/bahco-be-8602-095-bahco-be-8602-01.jpg",
+    "desc": "[A type of screwdriver with two small blades on the end shaped like a cross. It is named after the American H F Philips who invented it, and is used with a Phillips screw]"
+  },
+  {
+    "id": 993,
+    "name": "Tester screwdriver",
+    "price": 774,
+    "star": 1.8,
+    "img": "https://m.media-amazon.com/images/I/61NkmlAaguL.jpg",
+    "desc": "[It is a simple piece of electronic test equipment used to determine the presence or absence of an electric voltage]"
+  },
+  {
+    "id": 342,
+    "name": "File",
+    "price": 876,
+    "star": 4.6,
+    "img": "https://m.media-amazon.com/images/I/71IDERBJBAL._AC_SL1500_.jpg",
+    "desc": "[A thin, flat or rounded metal tool, which has rough surfaces for rubbing wooden or metal objects to make them smooth or to change their shape]"
+  },
+  {
+    "id": 238,
+    "name": "Saw",
+    "price": 1490,
+    "star": 4.9,
+    "img": "https://image.made-in-china.com/202f0j00KtkUhOqFwybN/Hardware-Tool-Hand-Saw-Garden-Saw-Pruning-Saw.jpg",
+    "desc": "[A tool that has a long blade with sharp points (called teeth) along one of its edges. A saw is moved backwards and forwards by hand or driven by electricity and is used for cutting wood or metal] (করাত): When we cut wood with a saw then produce sawdust."
+  },
+  {
+    "id": 121,
+    "name": "Hacksaw",
+    "price": 1630,
+    "star": 4,
+    "img": "https://m.media-amazon.com/images/I/61ajRFJWZ4L._AC_SL1001_.jpg",
+    "desc": "[A small saw with a narrow blade in a frame, used for cutting metal]"
+  },
+  {
+    "id": 341,
+    "name": "Spirit level",
+    "price": 1040,
+    "star": 3,
+    "img": "https://m.media-amazon.com/images/I/51ht1Etw8NL._SL1200_.jpg",
+    "desc": "[A glass tube tool partly filled with liquid, with a bubble of air inside and shows whether a surface is level by the position of the bubble]"
+  },
+  {
+    "id": 452,
+    "name": "Plane",
+    "price": 1475,
+    "star": 5,
+    "img": "https://m.media-amazon.com/images/I/71zsdzBVLaL._AC_SL1200_.jpg",
+    "desc": "[A tool with a blade set in a flat surface, used for making the surface of wood smooth by shave off very thin layers off it]"
+  },
+  {
+    "id": 802,
+    "name": "Axe",
+    "price": 1605,
+    "star": 2.9,
+    "img": "https://m.media-amazon.com/images/I/51uqBmDKYyL._AC_SL1001_.jpg",
+    "desc": "[A tool with a wooden handle and a heavy metal blade, used for chopping wood, cutting down trees, etc.] (কুড়াল): Raju used an axe and to chop down the old apple tree."
+  },
+  {
+    "id": 262,
+    "name": "Drill",
+    "price": 3475,
+    "star": 4.2,
+    "img": "https://5.imimg.com/data5/GI/LV/MZ/SELLER-73438257/bosch-electrical-power-hand-drill-500x500.jpg",
+    "desc": "[A drill is a tool fitted with a cutting tool attachment or driving tool attachment, usually a drill bit or driver bit, used for boring holes] (তুরপুন): There will be a fire drill sometime this morning."
+  },
+  {
+    "id": 455,
+    "name": "Penknife",
+    "price": 964,
+    "star": 0.9,
+    "img": "https://sc04.alicdn.com/kf/H3f886549005449e984b20cc613d71ce3H.jpg",
+    "desc": "[A small knife with one or more blades and screwdriver, scissors, etc. that fold down into the handle and is usually carried in pocket] (ছোঁট ভাঁজ করা ছুরি): He pulled the penknife out of his pocket and opened it."
+  },
+  {
+    "id": 462,
+    "name": "Pulley",
+    "price": 6575,
+    "star": 3.4,
+    "img": "https://e-rigging.com/assets/images/p/963/1-1-2-Sheave-Zinc-Plated-Swivel-Eye-Single-Pulley.jpg",
+    "desc": "[A piece of tool for moving heavy objects up or down, consisting of a small wheel over which a rope or chain fixed to the object can be easily pulled or released slowly] (কপিকল): A heavy stone had to be lifted into position with a system of pulleys."
+  },
+  {
+    "id": 7852,
+    "name": "Anvil",
+    "price": 3025,
+    "star": 4.1,
+    "img": "https://m.media-amazon.com/images/I/91COdH1xAHL._AC_SY355_.jpg",
+    "desc": "[A heavy block of iron on which a blacksmith puts hot pieces of metal before shaping them with a hammer]."
+  },
+  {
+    "id": 903,
+    "name": "Bolt",
+    "price": 20,
+    "star": 5,
+    "img": "https://5.imimg.com/data5/WF/MQ/MY-13073509/ss-bolt-500x500.jpg",
+    "desc": "[A screw-like metal object without a point which is used with a nut to fasten things together]"
+  },
+  {
+    "id": 33,
+    "name": "Nut",
+    "price": 10,
+    "star": 5,
+    "img": "https://thumbs.dreamstime.com/b/metal-nut-26867568.jpg",
+    "desc": "[A small piece of metal with a hole through the center that is screwed onto a bolt to hold pieces of wood, machinery, etc. together] (নাট): Nuts and bolts are to hold pieces of machinery together."
+  },
+  {
+    "id": 40,
+    "name": "Workbench",
+    "price": 7030,
+    "star": 3.8,
+    "img": "https://assets.leevalley.com/Size4/10108/03A0298-sjobergs-apartment-workbench-f-0077.jpg",
+    "desc": "[A strong table for working on especially one on which objects such as pieces of wood or metal can be firmly held so that tools can be used on them]"
+  },
+  {
+    "id": 60,
+    "name": "Blowtorch",
+    "price": 1636,
+    "star": 2.9,
+    "img": "https://daintyaffairs.com/bakery/wp-content/uploads/2018/04/Blow-torch.jpg",
+    "desc": "[A tool used to heat metal or remove a point from a surface by producing an extremely hot flam"
+  },
+  {
+    "id": 492,
+    "name": "Pulley",
+    "price": 6575,
+    "star": 4.5,
+    "img": "https://e-rigging.com/assets/images/p/963/1-1-2-Sheave-Zinc-Plated-Swivel-Eye-Single-Pulley.jpg",
+    "desc": "[A piece of tool for moving heavy objects up or down, consisting of a small wheel over which a rope or chain fixed to the object can be easily pulled or released slowly] (কপিকল): A heavy stone had to be lifted into position with a system of pulleys."
+  },
+  {
+    "id": 805,
+    "name": "Chain",
+    "price": 845,
+    "star": 3.5,
+    "img": "https://shop.harborfreight.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/9/7/97711_W3.jpg",
+    "desc": "[A series of connected metal rings, used for pulling or fastening things] (শৃঙ্খল; শিকল): The gates were locked with a padlock and a heavy steel chain. "
+  }
+]

@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  align-items: center;
+  background: gray;
+}
+.header img {
+  width: 70px;
+}
+.header a {
+  color: white;
+  margin-left: 120px;
+  text-decoration: none;
+  border-radius: 20px;
+}
+.header a:hover {
+  color: white;
+  background: rgb(63, 61, 61);
+  border-radius: 20px;
+}
